@@ -1,5 +1,4 @@
-![1000027759](https://github.com/user-attachments/assets/3e00e3b7-cc4d-4d27-aa5a-1094ead61c0c)
-
+![1000027760](https://github.com/user-attachments/assets/833abd6e-368c-467f-a533-3cd9f53226a8)
 
 - 👋 Hi, I am @Chill-Astro
 - 🎮 I’m interested in Game development and App development.
