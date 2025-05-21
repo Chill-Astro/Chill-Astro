@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://github.com/Chill-Astro/Chill-Astro/blob/main/Brand.png" width="490px" height="220px" alt="Calculator Logo">
+  <img src="https://github.com/Chill-Astro/Chill-Astro/blob/main/Brand.png" width="500px">
 </p>
 
-![Chill-Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=chill-astro&show_icons=true&theme=transparent)
+<p align="center">
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=chill-astro&show_icons=true&theme=transparent">
+</p>
 
-ℹ️ Check out my 🪟 [WinUI 3 Calculator](https://github.com/Chill-Astro/Calculator) and 🐍 [PyCalc](https://github.com/Chill-Astro/PyCalc) and [PyCalc-SE](https://github.com/Chill-Astro/PyCalc-SE)!
+<p align="center">
+  ℹ️ Check out my <a href="https://github.com/Chill-Astro/Calculator">WinUI 3 Calculator</a> and 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-SE">PyCalc-SE</a>!
+</p>
 
 <!---
 Chill-Astro/Chill-Astro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
