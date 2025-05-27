@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-Hi! 👋 I am @Chill-Astro and I am a Computer Applications Student of Class X ICSE.
-</p>
-<p align="center">
-I am interested in App Development 💻 and Game Development 🎮.
+Hi! 👋 I am @Chill-Astro and I am a Computer Applications Student and, I am interested in App Development 💻 and Game Development 🎮 !
 </p>
 
 
