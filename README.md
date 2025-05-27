@@ -11,10 +11,10 @@ I am interested in App Development 💻 and Game Development 🎮.
 
 
 <p align="center">
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=chill-astro&show_icons=true&theme=transparent">
+    <img width="370" src="https://github-readme-stats.vercel.app/api?username=chill-astro&show_icons=true&hide_border=false&theme=holi">
 </p>
 
-<p align="center"><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=chill-astro&show_icons=true&locale=en&layout=compact"&theme=transparent"/>
+<p align="center"><img align="center" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=chill-astro&show_icons=true&layout=compact&theme=holi"/>
 </p>
 
 <p align="center">
