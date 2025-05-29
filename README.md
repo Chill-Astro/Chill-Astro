@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Hi! 👋 I am @Chill-Astro and I am a Computer Applications Student. I am interested in App Development 💻 and Game Development 🎮 !
+Hi! 👋 I am @Chill-Astro and I am a Computer Applications Student. I am interested in App 💻 and Game Development 🎮 !
 </p>
 
 
