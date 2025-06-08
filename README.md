@@ -14,7 +14,7 @@ Hi! 👋 I am @Chill-Astro and I am a Computer Applications Student. I am intere
 
 
 <p align="center">
-Check out my 🪟 <a href="https://github.com/Chill-Astro/Calculator">WinUI 3 Calculator</a> and 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-SE">PyCalc-SE</a>!
+Check out my 🪟 <a href="https://github.com/Chill-Astro/Calculator">WinUI 3 Calculator</a> and 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a>, <a href="https://github.com/Chill-Astro/PyCalc-SE">PyCalc-SE </a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
 </p>
 
 <!---
