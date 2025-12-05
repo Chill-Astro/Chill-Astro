@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Hi!👋 I am @Chill-Astro, a Computer Applications Student of Class X ICSE📔. Currently I am learning Java ☕ in School and I am self-learning 🐍 Python, 💻 C# and 🖥️ C++. I make FOSS CUI and GUI Apps & Utilities and publish them on my Github. I have created Calculator, PyCalc, PyCalc-GUI, PyCalc-SE, Net-Update, MsixCertImportTool, OpenScan, etc.
+Hi!👋 I am @Chill-Astro, a Computer Applications Student of Class X ICSE📔. Currently I am learning Java ☕ in School and I am self-learning 🐍 Python, 💻 C# and 🖥️ C++. I make FOSS CUI and GUI Apps & Utilities and publish them on my Github. I have created Calculator, PyCalc, PyCalc-GUI, Net-Update, MsixCertImportTool, OpenScan, etc.
 </p>
 
 
