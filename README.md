@@ -42,7 +42,7 @@ Tools Used :
 </div>
 
 <p align="center">
-Check out my 🪟 <a href="https://github.com/Chill-Astro/Calculator">Calculator</a> and 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a>, <a href="https://github.com/Chill-Astro/PyCalc-SE">PyCalc-SE </a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
+Check out my 🪟 <a href="https://github.com/Chill-Astro/Calculator">WinUI 3 Calculator</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
 </p>
 
 <!---
