@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Hi!👋 I am @Chill-Astro, a Computer Applications Student of Class X ICSE📔. Currently I am learning Java ☕ in School and I am self-learning 🐍 Python, 💻 C# and 🖥️ C++. I make FOSS CUI and GUI Apps & Utilities and publish them on my Github. I have created Calculator, PyCalc, PyCalc-GUI, Net-Update, MsixCertImportTool, OpenScan, etc.
+Hi!👋 I am @Chill-Astro, a Computer Applications Student of Class X ICSE📔. Currently I am learning Java ☕ in School and I am self-learning 🐍 Python, 💻 C# and 🖥️ C++. I make FOSS CUI and GUI Apps & Utilities and publish them on my Github. I have created Lamina ✦, PyCalc, PyCalc-GUI, Net-Update, MsixCertImportTool, OpenScan, etc.
 </p>
 
 
@@ -42,7 +42,7 @@ Tools Used :
 </div>
 
 <p align="center">
-Check out my 🪟 <a href="https://github.com/Chill-Astro/Calculator">WinUI 3 Calculator</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
+Check out 🪟 <a href="https://github.com/Chill-Astro/Calculator">Lamina ✦</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
 </p>
 
 <!---
