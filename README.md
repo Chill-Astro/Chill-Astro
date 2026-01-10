@@ -23,7 +23,7 @@ Languages :
 
 Tools Used :
 
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,powershell,windows,bash,linux)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chill-Astro.Chill-Astro)
 </div>
