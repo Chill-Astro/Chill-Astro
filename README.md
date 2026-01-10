@@ -17,10 +17,13 @@ Hi 👋, I'm @Chill-Astro, a Class X ICSE student with a passion for Computer Ap
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Languages :
+
+![Languages](https://skillicons.dev/icons?i=java,python,cs,cpp)
+
+Tools Used :
+
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chill-Astro.Chill-Astro)
 </div>
