@@ -25,7 +25,16 @@ Tools Used :
 
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,powershell,windows,bash,linux)
 
+Learning :
+
+![Learning](https://skillicons.dev/icons?i=unity,androidstudio)
+
+Willing to Learn :
+
+![Learning](https://skillicons.dev/icons?i=unreal,blender,kotlin)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chill-Astro.Chill-Astro)
+
 </div>
 
 
