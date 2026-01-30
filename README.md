@@ -39,7 +39,7 @@ Willing to Learn :
 
 
 <p align="center">
-Check out 🪟 <a href="https://github.com/Chill-Astro/Calculator">Lamina ✦</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
+Check out 🪟 <a href="https://github.com/Chill-Astro/Lamina">Lamina ✦</a>, 📱 <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"> FOSS ROOT Checker</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
 </p>
 
 <!---
