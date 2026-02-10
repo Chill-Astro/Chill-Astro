@@ -11,7 +11,7 @@
 
 
 <p align="center">
-Hi 👋, I'm @Chill-Astro, a Class X ICSE student with a passion for Computer Applications. While learning Java in school, I'm also self-learning Python, C#, and C++. I enjoy creating FOSS CLI and GUI software and sharing them on GitHub. 
+Hi 👋, I'm @Chill-Astro, a Class X ICSE student with passion in Computer Applications. While learning Java in school, I'm also self-learning Python, C#, and C++. I enjoy creating FOSS CLI and GUI software and sharing them on GitHub. 
 </p>
 
 
@@ -19,7 +19,7 @@ Hi 👋, I'm @Chill-Astro, a Class X ICSE student with a passion for Computer Ap
 
 Languages :
 
-![Languages](https://skillicons.dev/icons?i=java,python,cs,cpp)
+![Languages](https://skillicons.dev/icons?i=python,cs,java,cpp)
 
 Tools Used :
 
