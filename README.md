@@ -11,7 +11,7 @@
 
 
 <p align="center">
-Hi 👋, I'm @Chill-Astro, a Class X ICSE student with passion in Computer Applications. While learning Java in school, I'm also self-learning Python, C#, and C++. I enjoy creating FOSS CLI and GUI software and sharing them on GitHub. 
+Hi 👋, I'm @Chill-Astro, a Class X ICSE student with passion in Computer Applications. While learning Java in school, I'm also self-learning Python, C#, Kotlin and C++. I enjoy creating FOSS CLI and GUI software and sharing them on GitHub. 
 </p>
 
 
@@ -19,19 +19,15 @@ Hi 👋, I'm @Chill-Astro, a Class X ICSE student with passion in Computer Appli
 
 Languages :
 
-![Languages](https://skillicons.dev/icons?i=python,cs,java,cpp)
+![Languages](https://skillicons.dev/icons?i=python,cs,java)
 
 Tools Used :
 
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,powershell,windows,bash,linux)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,windows,bash,linux)
 
 Learning :
 
-![Learning](https://skillicons.dev/icons?i=unity,androidstudio)
-
-Willing to Learn :
-
-![Learning](https://skillicons.dev/icons?i=unreal,blender,kotlin)
+![Learning](https://skillicons.dev/icons?i=unity,androidstudio,kotlin)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chill-Astro.Chill-Astro)
 
@@ -39,7 +35,7 @@ Willing to Learn :
 
 
 <p align="center">
-Check out 🪟 <a href="https://github.com/Chill-Astro/Lamina">Lamina ✦</a>, 📱 <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"> FOSS ROOT Checker</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
+Check out <a href="https://github.com/Chill-Astro/Lamina">Lamina ✦</a>, 📱 <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"> Root Checker</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
 </p>
 
 <!---
