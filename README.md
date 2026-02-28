@@ -17,28 +17,23 @@ Hi 👋, I'm @Chill-Astro, a Class X ICSE student with passion in Computer Appli
 
 <div align="center">
 
-Languages :
+<|- Languages -|>
 
 ![Languages](https://skillicons.dev/icons?i=python,cs,java)
 
-Tools Used :
+<|- Tools Used -|>
 
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,windows,bash,linux)
 
-Learning :
+<|- Learning -|>
 
 ![Learning](https://skillicons.dev/icons?i=unity,androidstudio,kotlin)
+
+<|- My Flagship Projects -|>
+
+[Lamina ✦](https://github.com/Chill-Astro/Lamina) | [Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker) | [PyCalc](https://github.com/Chill-Astro/PyCalc) 
+| [PyCalc GUI](https://github.com/Chill-Astro/PyCalc-GUI)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chill-Astro.Chill-Astro)
 
 </div>
-
-
-<p align="center">
-Check out <a href="https://github.com/Chill-Astro/Lamina">Lamina ✦</a>, 📱 <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"> Root Checker</a>, 🐍 <a href="https://github.com/Chill-Astro/PyCalc">PyCalc</a> and <a href="https://github.com/Chill-Astro/PyCalc-GUI">PyCalc-GUI</a> !
-</p>
-
-<!---
-Chill-Astro/Chill-Astro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
