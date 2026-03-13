@@ -26,7 +26,7 @@ Hi 👋, I'm *@Chill-Astro*, a **Class X ICSE Student** with Passion in **Comput
 
 *- Learning -*
 
-![Learning](https://skillicons.dev/icons?i=unity,androidstudio,kotlin)
+![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin)
 
 ---
 
