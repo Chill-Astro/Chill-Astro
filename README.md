@@ -30,9 +30,9 @@ Hi 👋, I'm *@Chill-Astro*, a **Class X ICSE Student** with Passion in **Comput
 
 ---
 
-*- Flagship Projects -*
+*- My Favorite Projects -*
 
-[Lamina ✦](https://github.com/Chill-Astro/Lamina-Calculator) | [Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker) | [PyCalc](https://github.com/Chill-Astro/PyCalc-Calculator)
+[Lamina ✦](https://github.com/Chill-Astro/Lamina-Calculator) | [Root Checker](https://github.com/Chill-Astro/FOSS-Root-Checker)
 
 ---
 
