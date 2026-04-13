@@ -8,7 +8,19 @@
 
 ---
 
-Hi 👋, I'm *@Chill-Astro*, a **Class X ICSE Student** with Passion in **Computer Applications**. While learning **Java** in School, I'm also self-learning **Python**, **C#**, **Kotlin** and **C++**. I enjoy creating **FOSS CLI** and **GUI Software** and sharing them on GitHub. 
+Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** with Passion in **Computer Science 💻**. While learning **Java** in School, I'm also self-learning **Python**, **C#**, **Kotlin** and **C++**. 
+
+I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀 and creating **FOSS CLI** and **GUI Software** in my Free Time!
+
+---
+
+*- Art -*
+
+<kbd>
+  
+![IMG_20260414_000158](https://github.com/user-attachments/assets/724831c5-0497-4a53-8be8-53e6a974412f)
+
+</kbd>
 
 ---
 
