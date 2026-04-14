@@ -17,7 +17,11 @@ I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀
 *- Art used in Projects -*
   
 <kbd>
-<img alt="Art" src="https://github.com/user-attachments/assets/724831c5-0497-4a53-8be8-53e6a974412f" />
+<img width=400 height=400 alt="Art" src="https://github.com/user-attachments/assets/724831c5-0497-4a53-8be8-53e6a974412f" />
+  
+  <br>
+  Art used for Project Lamina ✦
+  
 </kbd>
 
 
