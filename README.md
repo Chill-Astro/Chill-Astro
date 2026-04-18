@@ -45,4 +45,14 @@ I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀
 
 ---
 
+*- My Works  -*
+
+<div align="center">
+
+| Windows | Android |
+| :---: | :---: |
+| <kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project Lamina ✦</kbd> | <kbd><img src="https://github.com/user-attachments/assets/fc8d67f6-df19-496b-9960-60786e22886d" width="100%" /><br>Project FOSS Root Checker</kbd> |
+| <kbd><img src="https://github.com/user-attachments/assets/0fe9e160-2148-4b74-9142-2163a6ce679f" width="100%" /><br>Project Trust My Msix!</kbd> | <kbd><img src="https://github.com/user-attachments/assets/b736eec2-f626-4b69-87b9-1698eee5bffc" width="100%" /><br>FOSS Root Checker App Preview</kbd> |
+
+</div>
 </div>
