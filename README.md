@@ -51,8 +51,8 @@ I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀
 
 | Windows | Android |
 | :---: | :---: |
-| <kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project Lamina ✦</kbd> | <kbd><img src="https://github.com/user-attachments/assets/fc8d67f6-df19-496b-9960-60786e22886d" width="100%" /><br>Project FOSS Root Checker</kbd> |
-| <kbd><img src="https://github.com/user-attachments/assets/0fe9e160-2148-4b74-9142-2163a6ce679f" width="100%" /><br>Project Trust My Msix!</kbd> | <kbd><img src="https://github.com/user-attachments/assets/b736eec2-f626-4b69-87b9-1698eee5bffc" width="100%" /><br>FOSS Root Checker App Preview</kbd> |
+| <kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project : Lamina ✦ ( LMNA, formerly CalcX-11 )</kbd> | <kbd><img src="https://github.com/user-attachments/assets/fc8d67f6-df19-496b-9960-60786e22886d" width="100%" /><br>Project : FOSS Root Checker ( FRC-SU ) </kbd> |
+| <kbd><img src="https://github.com/user-attachments/assets/0fe9e160-2148-4b74-9142-2163a6ce679f" width="100%" /><br>Project : Trust My Msix! ( TMM, formerly MCIT ) </kbd> | <kbd><img src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" width="100%" /><br>Android Rooting Guide</kbd> |
 
 </div>
 </div>
