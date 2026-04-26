@@ -14,34 +14,15 @@ I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀
 
 ---
 
-*- Art used in Projects -*
-  
-<kbd>
-<img width=400 height=400 alt="Art" src="https://github.com/user-attachments/assets/724831c5-0497-4a53-8be8-53e6a974412f" />
-  
-  <br>
-  Art used for Project Lamina ✦
-  
-</kbd>
+*- Languages I am Learning and Using -*
 
+![Languages](https://skillicons.dev/icons?i=python,cs,java,cpp,kotlin)
 
 ---
 
-*- Languages -*
-
-![Languages](https://skillicons.dev/icons?i=python,cs,java)
-
----
-
-*- Tools Used -*
+*- My Preferred Tools -*
 
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,windows,bash,linux)
-
----
-
-*- Learning -*
-
-![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin)
 
 ---
 
