@@ -8,32 +8,34 @@
 
 ---
 
-Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** with Passion in **Computer Science 💻**. While learning **Java** in School, I'm also self-learning **Python**, **C#**, **Kotlin** and **C++**. 
+### *ABOUT ME*
 
-I Enjoy Playing Among Us ඞ, Genshin Impact 😋 and Spaceflighy Simulator 🚀 and creating **FOSS CLI** and **GUI Software** in my Free Time!
+Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** with Passion in **Computer Science 💻**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development.
 
----
-
-*- Languages I am Learning and Using -*
-
-![Languages](https://skillicons.dev/icons?i=python,cs,java,cpp,kotlin)
+I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin Impact 😋, but that hasn't stopped me from creating *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
 ---
 
-*- My Preferred Tools -*
+### *ACADEMIC ACHIEVEMENTS*
 
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,powershell,windows,bash,linux)
+`ICSE 2026` : `COMPUTER APPLICATIONS` -> `98%` ; `OVERALL` -> `95.2%`
+
+`ISC 2028` : `COMPUTER SCIENCE` -> `---` ; `AI` -> `---` ; `OVERALL` -> `---`
+
+`JEE MAIN 2028` : `---` | `JEE Ad. 2028` : `---`
 
 ---
 
-*- My Works  -*
+### *TOOLS*
 
-<div align="center">
+![Languages](https://skillicons.dev/icons?i=python,cs,java,kotlin,vscode,visualstudio,androidstudio)
+
+---
+
+### MY WORKS
 
 | Windows | Android |
 | :---: | :---: |
 | <kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project : Lamina ✦ ( LMNA, formerly Calc+ & CalcX-11 )</kbd> | <kbd><img src="https://github.com/user-attachments/assets/fc8d67f6-df19-496b-9960-60786e22886d" width="100%" /><br>Project : FOSS Root Checker ( FRC-SU ) </kbd> |
 | <kbd><img src="https://github.com/user-attachments/assets/0fe9e160-2148-4b74-9142-2163a6ce679f" width="100%" /><br>Project : Trust My Msix! ( TMM, formerly MCIT ) </kbd> | <kbd><img src="https://github.com/user-attachments/assets/60ba4ead-4ae6-46e8-bd35-adfac108c3a9" width="100%" /><br>Android Rooting Guide</kbd> |
-
-</div>
-</div>
+</div
