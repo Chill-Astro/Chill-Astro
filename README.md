@@ -28,7 +28,7 @@ I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin I
 
 ### *TOOLS*
 
-![Languages](https://skillicons.dev/icons?i=python,cs,java,kotlin,vscode,visualstudio,androidstudio)
+![Languages](https://skillicons.dev/icons?i=python,cs,java,kotlin,vscode,visualstudio,androidstudio,powershell,bash,windows,linux)
 
 ---
 
