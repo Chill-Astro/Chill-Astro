@@ -10,7 +10,7 @@
 
 ### *ABOUT ME*
 
-Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** with Passion in **Computer Science 💻**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development.
+Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development.
 
 I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin Impact 😋, but that hasn't stopped me from creating *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
