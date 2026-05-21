@@ -10,9 +10,13 @@
 
 ### *ABOUT ME*
 
-Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development.
+Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development. I make *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
-I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin Impact 😋, but that hasn't stopped me from creating *FOSS* **CLI** and **GUI** *Software* in my Free Time!
+My Goal is to become a **Game Developer** or Any New "Trendy" Job like **AI & ML** and **Data Science**.
+
+I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin Impact ( Emergency Food 😋), who plays on Budget Hardware!
+
+I know my ways around stuff! 🤓👍
 
 ---
 
@@ -31,6 +35,26 @@ I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin I
 ![Languages](https://skillicons.dev/icons?i=python,cs,java,kotlin,vscode,visualstudio,androidstudio,powershell,bash,windows,linux)
 
 ---
+
+### *HUMBLE ORIGINS*
+
+I am no Rich Kid with $3000 PC nor $1000 Phone, but I am Ambitious. Hardware NEVER Stops Me! 🗿
+
+</div>
+
+- **Laptop** : `ACER Aspire 3 i3 1215U ( Aspire A324-51 ) -> Invented the Ambition for Chill-Astro Software.`
+
+- **Tablet** : `OnePlus Pad Lite ( OPD2481 ) -> Test Dummy for Tablet UI + GAMING + Everything else.`
+
+- **Phone** : `Rooted POCO C55 ( 22127PC95I ) -> Primary Test Dummy +  Does Stuff Occassionally. ( Because I hate Skinny Devices )`
+
+- **Test Dummy** : `Rooted & Water Damaged Realme C11 ( RMX2185 ) -> Stress Test for FOSS Root Checker.`
+
+- **Previously Used Hardware** : `TOSHIBA Satellite C600 ( Pentium T4500 + Windows 10 ) & Micromax Canvas Mega 2 ( Q426 )`
+
+---
+
+<div align="center">
 
 ### *MY MAIN WORKS*
 
