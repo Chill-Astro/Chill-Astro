@@ -14,7 +14,7 @@ Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Beng
 
 My Goal is to become a **Game Developer** or Any New "Trendy" Job like **AI & ML** and **Data Science**.
 
-I *AM* a Spaceflight Simulator YouTuber, who also plays Among Us ඞ & Genshin Impact ( Emergency Food 😋), who plays on Budget Hardware!
+I *AM* a Spaceflight Simulator YouTuber, and an Among Us ඞ & Genshin Impact ( Emergency Food 😋) Gamer, who is NEVER Stopped by Budget Hardware!
 
 I know my ways around stuff! 🤓👍
 
