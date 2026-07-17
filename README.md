@@ -12,15 +12,11 @@
 
 Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development. I make *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
-My Goal is to become a **Game Developer** or Any New "Trendy" Job like **AI & ML** and **Data Science**.
-
-I *AM* a Spaceflight Simulator YouTuber, and an Among Us ඞ & Genshin Impact ( Emergency Food 😋) Gamer, who is NEVER Stopped by Budget Hardware!
-
-I know my ways around stuff! 🤓👍
+I *AM ALSO* a Gamer and also my own Video Editor for my own Youtbe Channel [@chill-astro-sfs](https://youtube.com/@chill-astro-sfs).
 
 ---
 
-### *ACADEMIC ACHIEVEMENTS*
+### *ACADEMIC ACHIEVEMENTS ( YEAH YEAH PR )*
 
 `ICSE 2026` : `COMPUTER APPLICATIONS` -> `98%` ; `OVERALL` -> `95.2%`
 
@@ -36,25 +32,19 @@ I know my ways around stuff! 🤓👍
 
 ---
 
-### *HUMBLE ORIGINS*
+### *MY PERSONAL TEST DUMIES*
 
-I am no Rich Kid with $3000 PC nor $1000 Phone, but I am Ambitious. Hardware NEVER Stops Me! 🗿
+I am no Rich Kid with $3000 PC nor $1000 Phone, but yes, I am Ambitious! 🗿
 
-</div>
 
-- **Laptop** : `ACER Aspire 3 i3 1215U ( Aspire A324-51 ) -> Invented the Ambition for Chill-Astro Software.`
+> **Personal Laptop** : `ACER Aspire 3 i3 1215U ( Aspire A324-51 )`
+>
+> **Tablet PC** : `OnePlus Pad Lite ( OPD2481 )`
+>
+> **Mobile Phone** : `Rooted POCO C55 ( 22127PC95I )`
 
-- **Tablet** : `OnePlus Pad Lite ( OPD2481 ) -> Test Dummy for Tablet UI + GAMING + Everything else.`
-
-- **Phone** : `Rooted POCO C55 ( 22127PC95I ) -> Primary Test Dummy +  Does Stuff Occassionally. ( Because I hate Skinny Devices )`
-
-- **Test Dummy** : `Rooted & Water Damaged Realme C11 ( RMX2185 ) -> Stress Test for FOSS Root Checker.`
-
-- **Previously Used Hardware** : `TOSHIBA Satellite C600 ( Pentium T4500 + Windows 10 ) & Micromax Canvas Mega 2 ( Q426 )`
 
 ---
-
-<div align="center">
 
 ### *MY MAIN WORKS*
 
