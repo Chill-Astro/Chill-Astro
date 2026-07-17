@@ -12,7 +12,7 @@
 
 Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development. I make *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
-I *AM ALSO* a Gamer and also my own Video Editor for my own Youtbe Channel [@chill-astro-sfs](https://youtube.com/@chill-astro-sfs).
+I *AM* also a Gamer ( expected ) and also my own Video Editor for my own Youtbe Channel [@chill-astro-sfs](https://youtube.com/@chill-astro-sfs).
 
 ---
 
