@@ -32,7 +32,7 @@ I *AM* also a Gamer ( expected ) and also my own Video Editor for my own Youtbe 
 
 ---
 
-### *MY PERSONAL TEST DUMIES*
+### *MY PERSONAL TEST DUMMIES*
 
 I am no Rich Kid with $3000 PC nor $1000 Phone, but yes, I am Ambitious! 🗿
 
