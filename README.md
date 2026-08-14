@@ -12,7 +12,9 @@
 
 Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development. I make *FOSS* **CLI** and **GUI** *Software* in my Free Time!
 
-I *AM* also a Gamer ( expected ) and also my own Video Editor for my own Youtbe Channel [@chill-astro-sfs](https://youtube.com/@chill-astro-sfs).
+I *AM* also a Gamer ( expected ) and the sole Video Editor of my YouTube Channel [@chill-astro-sfs](https://youtube.com/@chill-astro-sfs).
+
+I have my Personal Website too at [chill-astro.github.io](https://chill-astro.github.io)!
 
 ---
 
@@ -22,13 +24,13 @@ I *AM* also a Gamer ( expected ) and also my own Video Editor for my own Youtbe 
 
 `ISC 2028` : `COMPUTER SCIENCE` -> `---` ; `AI` -> `---` ; `OVERALL` -> `---`
 
-`JEE MAIN 2028` : `---` | `JEE Ad. 2028` : `---`
+`MORE AWAITS IN THE FUTURE`
 
 ---
 
 ### *TOOLS*
 
-![Languages](https://skillicons.dev/icons?i=python,cs,java,kotlin,vscode,visualstudio,androidstudio,powershell,bash,windows,linux)
+![Languages](https://skillicons.dev/icons?i=python,cs,java,vscode,visualstudio,powershell,bash,windows,linux)
 
 ---
 
