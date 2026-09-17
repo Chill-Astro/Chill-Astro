@@ -43,7 +43,7 @@ I am no Rich Kid with $3000 PC nor $1000 Phone, but yes, I am Ambitious! 🗿
 >
 > **Tablet PC** : `OnePlus Pad Lite ( OPD2481 )`
 >
-> **Mobile Phone** : `Rooted POCO C55 ( 22127PC95I )`
+> **Mobile Phone** : `Realme Narzo N61`
 
 
 ---
