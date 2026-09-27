@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Brand" src="https://github.com/user-attachments/assets/b42f9866-2ba9-4d8a-8980-2195c16f4772" />
+<img alt="Brand" src="https://github.com/user-attachments/assets/d92fa477-9024-4fe7-9223-c7a3c8f9ef08" />
 
  *"When we speak of free software, we are referring to freedom, not price."*
  
