@@ -14,7 +14,7 @@ Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Beng
 
 I *AM* also a Gamer ( expected ) and the sole Video Editor of my YouTube Channel [@delta-v-sfs](https://youtube.com/@delta-v-sfs).
 
-I have my Personal Website too at [chill-astro.pages.dev](https://chill-astro.pages.dev/)!
+I have my Personal Website too at [chill-astro.github.io](https://chill-astro.github.io)!
 
 ---
 
