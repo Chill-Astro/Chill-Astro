@@ -10,11 +10,7 @@
 
 ### *ABOUT ME*
 
-Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science 💻** and **Artificial *"Intelligence"* 🙄**. While learning **Java**, **Python** and **Machine Learning** in School, I'm also Self-Learning Software Development. I make *FOSS* **CLI** and **GUI** *Software* in my Free Time!
-
-I *AM* also a Gamer ( expected ) and the sole Video Editor of my YouTube Channel [@delta-v-sfs](https://youtube.com/@delta-v-sfs).
-
-I have my Personal Website too at [chill-astro.github.io](https://chill-astro.github.io)!
+Hi 👋, I'm *@Chill-Astro*, a **Class XI SCIENCE ISC Student** from **West Bengal, India** with Passion in **Computer Science** and **Artificial *"Intelligence"***. While learning **Java**, **Python** and **Machine Learning** in School, I Experiment in APP Development!
 
 ---
 
@@ -28,32 +24,8 @@ I have my Personal Website too at [chill-astro.github.io](https://chill-astro.gi
 
 ---
 
-### *TOOLS*
+### *WHAT I EXPERIMENT WITH!*
 
 ![Languages](https://skillicons.dev/icons?i=python,cs,java,vscode,visualstudio,powershell,bash,windows,linux)
 
 ---
-
-### *MY PERSONAL TEST DUMMIES*
-
-I am no Rich Kid with $3000 PC nor $1000 Phone, but yes, I am Ambitious! 🗿
-
-
-> **Personal Laptop** : `ACER Aspire 3 i3 1215U ( Aspire A324-51 )`
->
-> **Tablet PC** : `OnePlus Pad Lite ( OPD2481 )`
->
-> **Mobile Phone** : `Realme Narzo N61`
-
-
----
-
-### *MY MAIN WORKS*
-
-| Windows | Android |
-| :---: | :---: |
-| <a href="https://github.com/Chill-Astro/Lamina-Calculator"><kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project : Lamina ✦</kbd></a> | <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"><kbd><img src="https://chill-astro.github.io/assets/images/root-checker-hero.webp" width="100%" /><br>Project : FOSS Root Checker</kbd></a> |
-
----
-
-</div>
