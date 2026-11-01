@@ -52,7 +52,7 @@ I am no Rich Kid with $3000 PC nor $1000 Phone, but yes, I am Ambitious! 🗿
 
 | Windows | Android |
 | :---: | :---: |
-| <a href="https://github.com/Chill-Astro/Lamina-Calculator"><kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project : Lamina ✦</kbd></a> | <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"><kbd><img src="https://github.com/user-attachments/assets/4ad497bc-2a8d-4b58-b9ff-e6b08b1b47c9" width="100%" /><br>Project : FOSS Root Checker</kbd></a> |
+| <a href="https://github.com/Chill-Astro/Lamina-Calculator"><kbd><img src="https://github.com/user-attachments/assets/09a1d838-7571-4929-82a4-19c88c12889e" width="100%" /><br>Project : Lamina ✦</kbd></a> | <a href="https://github.com/Chill-Astro/FOSS-Root-Checker"><kbd><img src="https://chill-astro.github.io/assets/images/root-checker-hero.webp" width="100%" /><br>Project : FOSS Root Checker</kbd></a> |
 
 ---
 
